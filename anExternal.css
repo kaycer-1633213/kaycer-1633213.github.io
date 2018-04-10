@@ -1,0 +1,14 @@
+body {
+    background-color: lightskyblue;
+}
+h1 {
+    color: blue;
+    font-family: georgia
+}
+h2 {
+    color: yellow
+}
+p {
+    color: darkred;
+    font-family: fantasy 
+}
